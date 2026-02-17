@@ -1,15 +1,13 @@
-<h1>Human AI Interaction</h1>
-
-<p>
-  <a href="#conferences-about-ixd"><strong>Conferences about IxD</strong></a> ·
-  <a href="#hcaii"><strong>HC(AI)I</strong></a> ·
-  <a href="#data-to-context"><strong>Data-to-Context</strong></a> ·
-  <a href="#interacting-with-the-virtual-human"><strong>Interacting with the Virtual Human</strong></a> ·
-  <a href="#heuristic-evaluation-for-ai-interaction"><strong>Heuristic Evaluation for AI Interaction</strong></a> ·
-  <a href="#human-ai-co-creation"><strong>Human-AI Co-Creation</strong></a> ·
-  <a href="#can-robots-lead-humans"><strong>Can Robots Lead Humans?</strong></a> ·
-  <a href="#author"><strong>Author</strong></a>
-</p>
+# Human AI Interaction
+## TOC
+- <a href="#conferences-about-ixd"><strong>Conferences about IxD</strong></a>
+- <a href="#hcaii"><strong>HC(AI)I</strong></a>
+- <a href="#data-to-context"><strong>Data-to-Context</strong></a>
+- <a href="#interacting-with-the-virtual-human"><strong>Interacting with the Virtual Human</strong></a>
+- <a href="#heuristic-evaluation-for-ai-interaction"><strong>Heuristic Evaluation for AI Interaction</strong></a>
+- <a href="#human-ai-co-creation"><strong>Human-AI Co-Creation</strong></a>
+- <a href="#can-robots-lead-humans"><strong>Can Robots Lead Humans?</strong></a>
+- <a href="#author"><strong>Author</strong></a>
 
 ## Conferences about IxD
 - CHI：國際電腦人因互動研討會
@@ -54,7 +52,7 @@
 - AEQ：即Avatar Embodiment Questionnaire。向度含外觀（Appearance）、回應（Response）、所有權感（Ownership）、多重感官（Multi-Sensory）
 - 和AEQ類似的研究工具：GEQ（遊戲參與問卷）、VEQ（虛擬體現問卷）、IPQ（Igroup沉浸感問卷）
 - SAM量表：自我評價小矮人（Self-Assessment Manikin）
-- PAD模型：向度含愉悅感（Pleasure）、喚醒程度（Arousal）、主宰性（Dominance），常見於「社會機器人學」領域
+- PAD模型：向度含愉悅感（Pleasure）、喚醒程度（Arousal）、主宰性（Dominance），常見於「社會機器人學」領域。前身是James Russell提出的情緒環狀模型（Circumplex Model），少掉Dominance
 - 鳴海拓志：東大教授，關注和VR相關之五感，如Meta Cookie
 
 ## Human-AI Co-Creation
