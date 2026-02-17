@@ -5,6 +5,7 @@
 - <a href="#data-to-context"><strong>Data-to-Context</strong></a>
 - <a href="#interacting-with-the-virtual-human"><strong>Interacting with the Virtual Human</strong></a>
 - <a href="#heuristic-evaluation-for-ai-interaction"><strong>Heuristic Evaluation for AI Interaction</strong></a>
+- <a href="#application-with-mcp"><strong>Application with MCP</strong></a>
 - <a href="#human-ai-co-creation"><strong>Human-AI Co-Creation</strong></a>
 - <a href="#can-robots-lead-humans"><strong>Can Robots Lead Humans?</strong></a>
 - <a href="#author"><strong>Author</strong></a>
@@ -54,6 +55,22 @@
 - SAM量表：自我評價小矮人（Self-Assessment Manikin）
 - PAD模型：向度含愉悅感（Pleasure）、喚醒程度（Arousal）、主宰性（Dominance），常見於「社會機器人學」領域。前身是James Russell提出的情緒環狀模型（Circumplex Model），少掉Dominance
 - 鳴海拓志：東大教授，關注和VR相關之五感，如Meta Cookie
+
+## Application with MCP
+### MCP For Unity vs Bezi
+- Prompt: Create a car racing game.
+
+#### MCP For Unity
+<img alt="MCP For Unity" src="/img/MCP For Unity.png">
+<video controls>
+  <source src="/img/MCP For Unity.mp4" type="video/mp4">
+</video>
+
+#### Bezi
+<img alt="Bezi" src="/img/Bezi.png">
+<video controls>
+  <source src="/img/Bezi.mp4" type="video/mp4">
+</video>
 
 ## Human-AI Co-Creation
 - 研討會投稿評估級距：A（接受）、ARR（接受但要修改）、RRX（下次再來）

@@ -137,6 +137,22 @@ public class CarController : MonoBehaviour
     
     public float GetSpeed()
     {
-        return rb.velocity.magnitude * 3.6f; // Convert to km/h
+        return rb.velocity.magnitude * 3.6f;
+    }
+
+    public float CurrentSpeed => rb.velocity.magnitude;
+
+    public void SetInput(float move, float turn)
+    {
+        motor = move * motorForce;
+        steering = turn * maxSteerAngle;
+    }
+
+    public void ResetCar(Vector3 position, Quaternion rotation)
+    {
+        rb.velocity = Vector3.zero;
+        rb.angularVelocity = Vector3.zero;
+        transform.position = position;
+        transform.rotation = rotation;
     }
 }
