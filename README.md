@@ -62,15 +62,11 @@
 
 #### MCP For Unity
 <img alt="MCP For Unity" src="/img/MCP For Unity.png">
-<video controls>
-  <source src="/img/MCP For Unity.mp4" type="video/mp4">
-</video>
+https://github.com/user-attachments/assets/7b6dd4af-b684-4275-aca2-96747afd18d9
 
 #### Bezi
 <img alt="Bezi" src="/img/Bezi.png">
-<video controls>
-  <source src="/img/Bezi.mp4" type="video/mp4">
-</video>
+https://github.com/user-attachments/assets/e8cdfa85-736e-4a92-8c29-4ccd8f31d8da
 
 ## Human-AI Co-Creation
 - 研討會投稿評估級距：A（接受）、ARR（接受但要修改）、RRX（下次再來）
