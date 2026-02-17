@@ -62,11 +62,11 @@
 
 #### MCP For Unity
 <img alt="MCP For Unity" src="/img/MCP For Unity.png">
-https://github.com/user-attachments/assets/7b6dd4af-b684-4275-aca2-96747afd18d9
+https://github.com/user-attachments/assets/688d46ff-8279-4962-8a16-644005910a94
 
 #### Bezi
 <img alt="Bezi" src="/img/Bezi.png">
-https://github.com/user-attachments/assets/e8cdfa85-736e-4a92-8c29-4ccd8f31d8da
+https://github.com/user-attachments/assets/ab91e2d3-c1ca-4821-91a7-6c402e5cab38
 
 ## Human-AI Co-Creation
 - 研討會投稿評估級距：A（接受）、ARR（接受但要修改）、RRX（下次再來）
@@ -85,5 +85,6 @@ https://github.com/user-attachments/assets/e8cdfa85-736e-4a92-8c29-4ccd8f31d8da
 - 日本的社會機器人學者有神田崇行、石黑浩等人
 
 ## Author
+
 
 - [Haruo Wang](https://haruowang.vercel.app)
